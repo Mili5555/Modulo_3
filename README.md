@@ -2,10 +2,6 @@
 
 ## Trabajamos con Simul8
 
-# Módulo_3
-
-## Trabajamos con Simul8
-
 En el siguiente PDF está la información sobre cómo utilizamos y para qué sirve Simul8.
 
 [📄 Ver PDF - Budín de Banana / Módulo 3 SIMUL8](Bud%C3%ADn%20de%20Banana%20-%20M%C3%B3dulo%203%20-%20Simul8.pdf)
